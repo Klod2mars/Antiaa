@@ -26,3 +26,9 @@ LOGS/sessions/*
 *.swp
 *~
 
+
+# exceptions : autoriser la version des décisions et des logs d'action
+!MEMORY/decisions/
+!MEMORY/decisions/*.md
+!LOGS/actions/
+!LOGS/actions/*.action.json
