@@ -1,0 +1,28 @@
+# =========================
+# Antiaa – règles absolues
+# =========================
+
+# --- Preuves matérielles (JAMAIS versionnées) ---
+STOCK/pieces/*
+STOCK/files/*
+INTERPRETATIONS/summaries/*
+INCOMING/telegram/*
+
+# --- Mémoire vivante locale ---
+MEMORY/facts/*
+MEMORY/decisions/*
+
+# --- Environnements ---
+ocr-env/
+__pycache__/
+*.pyc
+
+# --- Logs locaux ---
+LOGS/actions/*
+LOGS/sessions/*
+
+# --- Fichiers temporaires ---
+*.tmp
+*.swp
+*~
+
