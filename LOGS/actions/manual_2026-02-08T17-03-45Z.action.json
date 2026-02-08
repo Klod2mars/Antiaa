@@ -1,0 +1,18 @@
+{
+  "action_id": "manual_2026-02-08T17-03-45Z__register",
+  "action_type": "register_piece",
+  "operation": "copy",
+  "original_path": "/tmp/test_article.txt",
+  "dest_path": "STOCK/files/manual_2026-02-08T17-03-45Z.txt",
+  "piece_id": "manual_2026-02-08T17-03-45Z",
+  "actor": "Klod2mars",
+  "timestamp": "2026-02-08T17:03:45.738120+00:00",
+  "file": {
+    "path": "STOCK/files/manual_2026-02-08T17-03-45Z.txt",
+    "hash": "sha256:246346a0d8357ef78f3a31026f23a1221ea43f5f5b2c8aa4489fa835c5afea14",
+    "mime": "application/octet-stream",
+    "size_bytes": 36
+  },
+  "status": "raw",
+  "notes": ""
+}
